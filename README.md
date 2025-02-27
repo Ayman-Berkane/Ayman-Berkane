@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=650&color=FFFFFF&font=pacifico&lines=Hey!+I'm+Ayman+Berkane;Software+Developer+%7C+Problem+Solver;Always+learning+new+tech!&repeat=true)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=700&color=FFFFFF&font=pacifico&lines=Hey!+I'm+Ayman+Berkane;Software+Developer+%7C+Problem+Solver;Always+learning+new+tech!&repeat=true)](https://git.io/typing-svg)
 
 I'm a passionate **software development student** at ROC Mondriaan. I enjoy working with both **frontend** and **backend** technologies. I’m always looking for new challenges and opportunities to learn and grow.  
 
