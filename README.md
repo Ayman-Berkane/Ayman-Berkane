@@ -4,6 +4,8 @@ I'm a passionate **software development student** at ROC Mondriaan. I enjoy work
 
 ---
 
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+
 ## 🚀 My Skills:  
 
 ### 🖥 **Frontend:**  
