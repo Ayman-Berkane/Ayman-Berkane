@@ -1,11 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=34&width=600&color=FFFFFF&font=pacifico&lines=Hey!+I'm+Ayman+Berkane;Software+Developer+%7C+Problem+Solver;Always+learning+new+tech!)](https://git.io/typing-svg)
 
-
 I'm a passionate **software development student** at ROC Mondriaan. I enjoy working with both **frontend** and **backend** technologies. I’m always looking for new challenges and opportunities to learn and grow.  
 
 ---
 
-## 🚀 My Skills:  
+## 🚀 **My Skills:**
 
 ### 🖥 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000)  
@@ -54,4 +53,4 @@ On my profile, you'll find various projects that showcase my work, including bot
 ## 💬 **Let’s Connect!**  
 Feel free to reach out if you're interested in **collaborating** on a project or have any **questions** about my work. I’m always excited to learn and grow as a developer!  
 
-Thanks for visiting my profile! 😊  
+Thanks for visiting my profile! 😊
