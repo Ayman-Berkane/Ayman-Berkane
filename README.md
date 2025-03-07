@@ -15,6 +15,7 @@ I'm a passionate **software development student** at ROC Mondriaan. I enjoy work
 ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=000000)  
 ![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=000000)  
 ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=000000)  
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000)
 
 ### 🗄 **Database:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000)  
